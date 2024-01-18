@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "QRCodeGent",
+		"stack": "java8",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "QRCodeGen"
+	}
+}
